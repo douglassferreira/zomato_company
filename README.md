@@ -13,12 +13,14 @@ O CEO recém-contratado busca informações abrangentes e detalhadas para embasa
 Algumas questões chaves foram feitas em cada uma das respectivas informações de negócios a serem analisadas. Estas questões de negócio foram respondidas e entregues ao CEO por meio de gráficos e tabelas no dashboard. 
 
 - Informações Gerais:
+  - Número de Restaurantes Registrados.
+  - Número de Países Registrados.
+  - Número de Cidades Listadas.
+  - Número de Avaliações.
+  - Tipos de Culinárias Listadas.
   
-  a) Número de Restaurantes Registrados.
-  b) Número de Países Registrados.
-  c) Número de Cidades Listadas.
-  d. Número de Avaliações.
-  e. Tipos de Culinárias Listadas.
+
+
 
 - Informações dos Países:
   a. Os 10 países com o maior número de restaurantes cadastrados.
