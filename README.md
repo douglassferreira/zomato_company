@@ -26,15 +26,15 @@ Algumas questões chaves foram feitas em cada uma das respectivas informações 
   - Média de preço para duas pessoas por país.
 
 - Informações das Cidades:
-  a. As 10 cidades com o maior número de restaurantes.
-  b. Número de restaurantes com avaliação média acima de 4 por cidade.
-  c. Número de restaurantes com avaliação média inferior a 2.5 por cidade.
-  d. Número de culinárias por cidade.
+  - As 10 cidades com o maior número de restaurantes.
+  - Número de restaurantes com avaliação média acima de 4 por cidade.
+  - Número de restaurantes com avaliação média inferior a 2.5 por cidade.
+  - Número de culinárias por cidade.
 
 - Informações sobre Culinárias:
-  a. Principais restaurantes por culinária.
-  b. Os 10 melhores tipos de culinárias.
-  c. Os 10 piores tipos de culinárias.
+  - Principais restaurantes por culinária.
+  - Os 10 melhores tipos de culinárias.
+  - Os 10 piores tipos de culinárias.
 
 # 4. Principais insights
 Dentre todos os países registrados, a Índia se destaca com o maior número de restaurantes cadastrados e a mais extensa presença geográfica, seguida pelos Estados Unidos e Inglaterra. Embora a Índia também abrigue uma grande quantidade de pratos considerados caros, a análise da média de custo para duas pessoas revela que a Indonésia assume a liderança, seguida pela Austrália, Sri Lanka, Filipinas e Índia.
@@ -50,7 +50,7 @@ Dashboard hospedado em Cloud e disponível para acesso em qualquer dispositivo c
 O propósito deste projeto foi desenvolver um painel com as informações-chave do negócio, destinado a auxiliar o CEO nas tomadas de decisão. Na análise global, percebe-se que, embora a Zomato esteja estabelecida em vários países, há uma clara predominância da utilização dos serviços da empresa na Índia e nos EUA. Isso aponta para novas oportunidades de investimento em outras nações, o que pode contribuir significativamente para o crescimento dos lucros e a diversificação do negócio.
 
 # 7. Próximos Passos
-a. Identificação do perfil dos usuários da Zomato em cada país.
-b. Estabelecer novos filtros e visualizações gráficas.
-c. Propor sugestões de marketing com base no perfil dos usuários da empresa.  
+1. Identificação do perfil dos usuários da Zomato em cada país.
+2. Estabelecer novos filtros e visualizações gráficas.
+3. Propor sugestões de marketing com base no perfil dos usuários da empresa.  
 
