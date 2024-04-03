@@ -13,6 +13,7 @@ O CEO recém-contratado busca informações abrangentes e detalhadas para embasa
 Algumas questões chaves foram feitas em cada uma das respectivas informações de negócios a serem analisadas. Estas questões de negócio foram respondidas e entregues ao CEO por meio de gráficos e tabelas no dashboard. 
 
 - Informações Gerais:
+  
   a) Número de Restaurantes Registrados.
   b) Número de Países Registrados.
   c) Número de Cidades Listadas.
