@@ -19,14 +19,11 @@ Algumas questões chaves foram feitas em cada uma das respectivas informações 
   - Número de Avaliações.
   - Tipos de Culinárias Listadas.
   
-
-
-
 - Informações dos Países:
-  a. Os 10 países com o maior número de restaurantes cadastrados.
-  b. Números de pratos considerados caros por país.
-  c. Número de cidades registradas por país.
-  d. Média de preço para duas pessoas por país.
+  - Os 10 países com o maior número de restaurantes cadastrados.
+  - Números de pratos considerados caros por país.
+  - Número de cidades registradas por país.
+  - Média de preço para duas pessoas por país.
 
 - Informações das Cidades:
   a. As 10 cidades com o maior número de restaurantes.
