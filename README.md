@@ -10,31 +10,31 @@ O CEO recém-contratado busca informações abrangentes e detalhadas para embasa
 2. Para melhor organização do dashboard, as métricas de negócios foram divididas em: Informações Gerais, Informações dos Países, Informações das Cidades e Informações sobre Culinárias.
 
 # 3. Estratégia de Solução
-Algumas perguntas chaves foram feitas em cada uma das respectivas informações de negócios a serem analisadas. Estas perguntas foram respondidas e entregues ao CEO por meio de gráficos e tabelas no dashboard. 
+Algumas questões chaves foram feitas em cada uma das respectivas informações de negócios a serem analisadas. Estas questões de negócio foram respondidas e entregues ao CEO por meio de gráficos e tabelas no dashboard. 
 
 - Informações Gerais:
-  1. Número de Restaurantes Registrados.
-  2. Número de Países Registrados.
-  3. Número de Cidades Listadas.
-  4. Número de Avaliações.
-  5. Tipos de Culinárias Listadas.
+  a. Número de Restaurantes Registrados.
+  b. Número de Países Registrados.
+  c. Número de Cidades Listadas.
+  d. Número de Avaliações.
+  e. Tipos de Culinárias Listadas.
 
 - Informações dos Países:
-  1. Os 10 países com o maior número de restaurantes cadastrados.
-  2. Números de pratos considerados caros por país.
-  3. Número de cidades registradas por país.
-  4. Média de preço para duas pessoas por país.
+  a. Os 10 países com o maior número de restaurantes cadastrados.
+  b. Números de pratos considerados caros por país.
+  c. Número de cidades registradas por país.
+  d. Média de preço para duas pessoas por país.
 
 - Informações das Cidades:
-  1. As 10 cidades com o maior número de restaurantes.
-  2. Número de restaurantes com avaliação média acima de 4 por cidade.
-  3. Número de restaurantes com avaliação média inferior a 2.5 por cidade.
-  4. Número de culinárias por cidade.
+  a. As 10 cidades com o maior número de restaurantes.
+  b. Número de restaurantes com avaliação média acima de 4 por cidade.
+  c. Número de restaurantes com avaliação média inferior a 2.5 por cidade.
+  d. Número de culinárias por cidade.
 
 - Informações sobre Culinárias:
-  1. Principais restaurantes por culinária.
-  2. Os 10 melhores tipos de culinárias.
-  3. Os 10 piores tipos de culinárias.
+  a. Principais restaurantes por culinária.
+  b. Os 10 melhores tipos de culinárias.
+  c. Os 10 piores tipos de culinárias.
 
 # 4. Principais insights
 Dentre todos os países registrados, a Índia se destaca com o maior número de restaurantes cadastrados e a mais extensa presença geográfica, seguida pelos Estados Unidos e Inglaterra. Embora a Índia também abrigue uma grande quantidade de pratos considerados caros, a análise da média de custo para duas pessoas revela que a Indonésia assume a liderança, seguida pela Austrália, Sri Lanka, Filipinas e Índia.
@@ -50,7 +50,7 @@ Dashboard hospedado em Cloud e disponível para acesso em qualquer dispositivo c
 O propósito deste projeto foi desenvolver um painel com as informações-chave do negócio, destinado a auxiliar o CEO nas tomadas de decisão. Na análise global, percebe-se que, embora a Zomato esteja estabelecida em vários países, há uma clara predominância da utilização dos serviços da empresa na Índia e nos EUA. Isso aponta para novas oportunidades de investimento em outras nações, o que pode contribuir significativamente para o crescimento dos lucros e a diversificação do negócio.
 
 # 7. Próximos Passos
-1. Identificação do perfil dos usuários da Zomato em cada país.
-2. Estabelecer novos filtros e visualizações gráficas.
-3. Propor sugestões de marketing com base no perfil dos usuários da empresa.  
+a. Identificação do perfil dos usuários da Zomato em cada país.
+b. Estabelecer novos filtros e visualizações gráficas.
+c. Propor sugestões de marketing com base no perfil dos usuários da empresa.  
 
