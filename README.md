@@ -1,3 +1,7 @@
+# Zomato Dashboard
+
+![Texto Alternativo](https://github.com/douglassferreira/zomato_company/blob/main/Zomato_logo.png)
+
 # Sobre a Zomato
 A Zomato é uma empresa global que opera no setor de serviços, fornecendo aos seus clientes uma plataforma de busca por restaurantes e serviços de entrega em vários países ao redor do mundo. Por meio dessa plataforma, empresas do ramo podem promover seus serviços, o que resulta em uma maior atração de clientes.   
 
