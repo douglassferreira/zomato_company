@@ -2,6 +2,7 @@
 
 
 <img src="https://github.com/douglassferreira/zomato_company/blob/main/Zomato_logo.png" width="300" height="200">
+
 ## The world of flavors, in the palm of your hand
 
 # Sobre a Zomato
