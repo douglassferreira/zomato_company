@@ -5,25 +5,24 @@
 
 
 # About Zomato
-A Zomato é uma empresa global que opera no setor de serviços, fornecendo aos seus clientes uma plataforma de busca por restaurantes e serviços de entrega em vários países ao redor do mundo. Por meio dessa plataforma, empresas do ramo podem promover seus serviços, o que resulta em uma maior atração de clientes.   
+Zomato is a global company operating in the service sector, providing its customers with a platform for searching restaurants and delivery services in various countries around the world. Through this platform, businesses in the industry can promote their services, resulting in greater customer attraction.
 
-# 1. Problema de Negócio
-O CEO recém-contratado busca informações abrangentes e detalhadas para embasar suas decisões estratégicas visando impulsionar o desempenho da empresa em um cenário competitivo. Nesse sentido, solicitou-se que a equipe de dados desenvolvesse um painel de controle com os principais indicadores de negócio da empresa.
+# 1. Business Problem
+The newly hired CEO seeks comprehensive and detailed information to support his strategic decisions aiming to boost the company's performance in a competitive scenario. In this regard, the data team was requested to develop a control panel with the company's key business indicators
 
-# 2. Premissas assumidas para a análise
-1. Os dados utilizados para análise e construção do dashboard estão disponíveis na plataforma Kaggle: https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv
+# 2. Assumptions made for the analysis
+1. The data used for analysis and dashboard construction are available on the Kaggle platform: https://www.kaggle.com/datasets/akashram/zomato-restaurants-autoupdated-dataset?resource=download&select=zomato.csv
 
-2. Para melhor organização do dashboard, as métricas de negócios foram divididas em: Informações Gerais, Informações dos Países, Informações das Cidades e Informações sobre Culinárias.
+2. For better organization of the dashboard, the business metrics were divided into: General Information, Country Information, City Information, and Cuisine Information.
+# 3. Solution Strategy
+Some key questions were asked for each of the respective business information to be analyzed. These business questions were answered and delivered to the CEO through graphs and tables on the dashboard.
 
-# 3. Estratégia de Solução
-Algumas questões chaves foram feitas em cada uma das respectivas informações de negócios a serem analisadas. Estas questões de negócio foram respondidas e entregues ao CEO por meio de gráficos e tabelas no dashboard. 
-
-- Informações Gerais:
-  - Número de Restaurantes Registrados.
-  - Número de Países Registrados.
-  - Número de Cidades Listadas.
-  - Número de Avaliações.
-  - Tipos de Culinárias Listadas.
+- General Information:
+  - Number of Registered Restaurants.
+  - Number of Registered Countries.
+  - Number of Listed Cities.
+  - Number of Reviews.
+  - Types of Cuisines Liste.
   
 - Informações dos Países:
   - Os 10 países com o maior número de restaurantes cadastrados.
