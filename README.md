@@ -24,38 +24,38 @@ Some key questions were asked for each of the respective business information to
   - Number of Reviews.
   - Types of Cuisines Liste.
   
-- Informações dos Países:
-  - Os 10 países com o maior número de restaurantes cadastrados.
-  - Números de pratos considerados caros por país.
-  - Número de cidades registradas por país.
-  - Média de preço para duas pessoas por país.
+- Country Information:
+  - The 10 countries with the highest number of registered restaurants.
+  - Numbers of dishes considered expensive by country.
+  - Number of cities registered per country.
+  - Average price for two people per country.
 
-- Informações das Cidades:
-  - As 10 cidades com o maior número de restaurantes.
-  - Número de restaurantes com avaliação média acima de 4 por cidade.
-  - Número de restaurantes com avaliação média inferior a 2.5 por cidade.
-  - Número de culinárias por cidade.
+- Cities Information:
+  - The 10 cities with the highest number of restaurants.
+  - Number of restaurants with an average rating above 4 per city.
+  - Number of restaurants with an average rating below 2.5 per city
+  - Number of cuisines per city.
 
-- Informações sobre Culinárias:
-  - Principais restaurantes por culinária.
-  - Os 10 melhores tipos de culinárias.
-  - Os 10 piores tipos de culinárias.
+- Culinary Information:
+  - Top restaurants by cuisine.
+  - The top 10 best types of cuisines.
+  - The top 10 worst types of cuisines.
 
-# 4. Principais insights
-Dentre todos os países registrados, a Índia se destaca com o maior número de restaurantes cadastrados e a mais extensa presença geográfica, seguida pelos Estados Unidos e Inglaterra. Embora a Índia também abrigue uma grande quantidade de pratos considerados caros, a análise da média de custo para duas pessoas revela que a Indonésia assume a liderança, seguida pela Austrália, Sri Lanka, Filipinas e Índia.
+# 4. Key insights
+Among all registered countries, India stands out with the highest number of registered restaurants and the most extensive geographical presence, followed by the United States and England. Although India also hosts a large number of dishes considered expensive, the analysis of the average cost for two people reveals that Indonesia takes the lead, followed by Australia, Sri Lanka, the Philippines, and India.
 
-Entre as 10 cidades com o maior número de restaurantes, quatro são indianas, uma é inglesa, uma pertence aos Emirados Árabes, outra ao Qatar, uma à África do Sul e uma ao Brasil. Na análise das cidades com maior número de restaurantes com avaliação média acima de 4, Brasília (Brasil) ocupa a primeira posição, seguida por Hamilton, na Nova Zelândia.
+Among the 10 cities with the highest number of restaurants, four are Indian, one is English, one belongs to the United Arab Emirates, another to Qatar, one to South Africa, and one to Brazil. In the analysis of cities with the highest number of restaurants with an average rating above 4, Brasília (Brazil) ranks first, followed by Hamilton, New Zealand.
 
-Em relação à diversidade de culinárias, Abu Dhabi, nos Emirados Árabes, assume a liderança, seguida por Adelaide, na Austrália.
+In terms of culinary diversity, Abu Dhabi, in the United Arab Emirates, takes the lead, followed by Adelaide, Australia.
 
-# 5. O produto Final do Projeto
-Dashboard hospedado em Cloud e disponível para acesso em qualquer dispositivo conectado à internet. Para visualizar, basta acessar o link: https://zomatocompany.streamlit.app/
+# 5. The Final Product of the Project
+Dashboard hosted in the Cloud and available for access on any internet-connected device. To view, simply access the link: https://zomatocompany.streamlit.app/
 
-# 6. Conclusão
-O propósito deste projeto foi desenvolver um painel com as informações-chave do negócio, destinado a auxiliar o CEO nas tomadas de decisão. Na análise global, percebe-se que, embora a Zomato esteja estabelecida em vários países, há uma clara predominância da utilização dos serviços da empresa na Índia e nos EUA. Isso aponta para novas oportunidades de investimento em outras nações, o que pode contribuir significativamente para o crescimento dos lucros e a diversificação do negócio.
+# 6. Conclusion
+The purpose of this project was to develop a dashboard with key business information, aimed at assisting the CEO in decision-making. In the overall analysis, it is evident that, although Zomato is established in various countries, there is a clear predominance of the company's services usage in India and the USA. This points to new investment opportunities in other nations, which can significantly contribute to profit growth and business diversification.
 
-# 7. Próximos Passos
-1. Identificação do perfil dos usuários da Zomato em cada país.
-2. Estabelecer novos filtros e visualizações gráficas.
-3. Propor sugestões de marketing com base no perfil dos usuários da empresa.  
+# 7. Next Steps
+1. Identifying the profile of Zomato users in each country.
+2. Establishing new filters and graphical visualizations.
+3. Proposing marketing suggestions based on the company's user profiles.  
 
